@@ -1,0 +1,15 @@
+{
+    "name": "echo/plugin-a",
+    "autoload": {
+        "psr-4": {
+            "Echo\\PluginA\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Echo Wang",
+            "email": "wgqi1126@qq.com"
+        }
+    ],
+    "require": {}
+}
